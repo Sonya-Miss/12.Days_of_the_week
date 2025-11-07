@@ -8,17 +8,17 @@ const gameData = [
     {
         correctEnglishPhrase: "How old is she?", 
         draggableEnglishWords: ["How", "old", "is", "she?"], 
-        audioPath: "./Audio/9.3.mp3" 
+        audioPath: "./Audio/9.2.mp3" 
     },
     {
         correctEnglishPhrase: "How is she?",
         draggableEnglishWords: ["How", "is", "she?"],
-        audioPath: "./Audio/9.4.mp3"
+        audioPath: "./Audio/9.3.mp3"
     },
     { 
         correctEnglishPhrase: "She is great.",
         draggableEnglishWords: ["She", "is", "great."],
-        audioPath: "./Audio/9.5.mp3" 
+        audioPath: "./Audio/9.4.mp3" 
     }
 ];
 
